@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Demo Php Jenkins</title>
+    <title>Demo Php Jenkins!</title>
   </head>
   <body>
     <?php
